@@ -1,5 +1,5 @@
 # undead-walking
-Supporting code for Pop et al., 2020
+Supporting code for Pop et al., 2020, https://doi.org/10.7554/eLife.59566.
 
 Matlab scripts for extracting centroid coordinates of individual walking flies and plotting them as a trace
 
